@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Greedy Snake/controller.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/food.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/map.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/map.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/point.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/point.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/snake.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/snakefood.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/startinterface.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/startinterface.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Greedy Snake/tools.cpp" charset="GBK" />
+  </component>
+</project>
